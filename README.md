@@ -21,3 +21,9 @@ The following image shows the web application's appearance and functionality:
 
 The weather app includes a search option, a list of cities, and a five-day forecast and current weather conditions for Atlanta.
 
+
+![image](https://user-images.githubusercontent.com/89895612/135973431-30396319-a53d-4e3a-b725-d1a80d879a7f.png)
+
+
+![image](https://user-images.githubusercontent.com/89895612/135973522-db80d423-f8a1-4700-bf1a-acecc44aa335.png)
+
