@@ -42,9 +42,15 @@ var tempSet = document.createElement("p");
 tempSet.innerHTML = currentTemp + " fahrenheit"
 currentTempr.append(tempSet);
 
-var currentWind = data.wind.speed;
+var currentWind = data.wind["speed"];
+var windSet = document.createElement("p");
+windSet.innerHTML = currentWind + " miles per hour"
+currentWindy.append(windSet);
 
-
+var currentHum = data.main["humidity"];
+var humSet = document.createElement("p");
+humSet.innerHTML = currentHum
+currentHumid.append(humSet);
 
 })
 
