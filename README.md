@@ -27,3 +27,7 @@ The weather app includes a search option, a list of cities, and a five-day forec
 
 ![image](https://user-images.githubusercontent.com/89895612/135973522-db80d423-f8a1-4700-bf1a-acecc44aa335.png)
 
+Link to deployed site:
+https://chrisnirschl1.github.io/weather-app/
+
+Had issues getting the history and five day forecast to populate, as well as clearing out the calls on the search button. But I was able to get the API called, and given time to refine, I could move through the process again to get it a lot closer to 100% done. 
